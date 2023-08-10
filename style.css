@@ -1,0 +1,26 @@
+body,html{
+  margin:auto;
+  border:solid 10px violet;
+  background-color:darkred
+  
+}
+#destaque{
+    background:image:url(fundo.jpg);
+    text-aling:center;
+    color: rgb(238,232,222)
+    height:300px;
+ }
+.item{
+    widght:20%;
+    border:10px solid black;
+    text-aling:center;
+    padding:2%;
+}
+#Produtos{
+   text-align: justify;
+   clear:both;
+}
+Footer{
+    clear:both;
+    text-align: center;
+}
